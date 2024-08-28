@@ -1,6 +1,6 @@
-# Tinder for Food 12:30
+# Food Tinder
 
-Link for demo: https://www.loom.com/share/392bc8bf72fa45a5bdfb9776304016d0
+Food Tinder is a location-based app for discovering meals nearby based on meal choices and dietary preferences.
 
 ## Project Structure
 
